@@ -1,10 +1,10 @@
 # 1.代码部署
 
-<img src= "https://github.com/womacheng/zuoye3/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-04%20145548.pngng" width="800" >
+<img src= "https://github.com/womacheng/zuoye3/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-04%20145548.png" width="800" >
 
 # 2.优化特征选择方法
 
-<img src="https://github.com/womacheng/zuoye3/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-04%20155417.png.1.png" width="800" >
+<img src="https://github.com/womacheng/zuoye3/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-04%20155417.png" width="800" >
 
 # 样本平衡处理
 
